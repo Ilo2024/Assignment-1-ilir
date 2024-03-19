@@ -1,0 +1,17 @@
+img {
+    border: 3px outset red;
+}
+
+p{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+input {
+    border-color: black;
+}
+
+button {
+    border-color: black;
+}
